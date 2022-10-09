@@ -14,7 +14,7 @@
 - :desktop_computer: Monitoring/Orchestration: Apache Airflow
 - 🛢  Database: Oracle,Data Warehouse, SAP HANA and MySQL
 - :hammer: ETL/ELT Tools: ODI, DBT and Fivetran
-- :cloud: Azure
+- :cloud: Cloud Computing: Azure
 - :wrench:  Language: SQL, Python, C++, HTML, CSS
 - :bar_chart: Data Viz: Tableau and Excel
 - :gear: Version Control: Git, GitHub, Linux
