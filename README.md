@@ -11,7 +11,7 @@
 :hammer_and_wrench: **Tech Stack**
 
 
-- :desktop_computer: Monitoring/Orchestration: Apache Airflow
+- :desktop_computer: Monitoring/Orchestration: SAP ERP Systems
 - 🛢  Database: Oracle,Data Warehouse, SAP HANA and MySQL
 - :hammer: ETL/ELT Tools: ODI, DBT and Fivetran
 - :cloud: Cloud Computing: Azure
