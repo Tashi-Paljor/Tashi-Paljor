@@ -13,7 +13,6 @@
 
 - :desktop_computer: Monitoring/Orchestration: ERP Systems
 - 🛢  Database: Oracle,Data Warehouse, SAP HANA and MySQL
-- :hammer: ETL/ELT Tools: ODI, DBT and Fivetran
 - :cloud: Cloud Computing: Azure
 - :wrench:  Language: SQL, Python, C++, HTML, CSS
 - :bar_chart: Data Viz: Tableau and Excel
